@@ -6,9 +6,7 @@
 
 ---
 
-## Integrantes del Grupo
-
-> **IMPORTANTE:** Completar los datos de los integrantes antes de la entrega formal.
+## Integrantes:
 
 * **Nombre y Apellido:** Richard Martin Lagos
 * **Nombre y Apellido:** Esteban Balbiani
