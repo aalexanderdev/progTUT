@@ -10,10 +10,10 @@
 
 > **IMPORTANTE:** Completar los datos de los integrantes antes de la entrega formal.
 
-* **Nombre y Apellido:** [Completar Nombre y Apellido 1]
-* **Nombre y Apellido:** [Completar Nombre y Apellido 2]
-* **Nombre y Apellido:** [Completar Nombre y Apellido 3]
-* **Nombre y Apellido:** [Completar Nombre y Apellido 4]
+* **Nombre y Apellido:** Richard Martin Lagos
+* **Nombre y Apellido:** Esteban Balbiani
+* **Nombre y Apellido:** Leonardo Omar Galiano
+* **Nombre y Apellido:** Alexander Arrua
 
 ---
 
